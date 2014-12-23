@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TugasTebakGambar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_anjing">TugasTebakGambar</string>
+    <string name="title_activity_biasa">TugasTebakGambar</string>
+    <string name="title_activity_buah">TugasTebakGambar</string>
+    <string name="title_activity_fermentasi">TugasTebakGambar</string>
+    <string name="title_activity_hidup">TugasTegakGambar</string>
+    <string name="title_activity_jambu">TugasTebakGambar</string>
+    <string name="title_activity_tahi">TugasTebakGambar</string>
+    <string name="title_activity_tantangan">TugasTebakGambar</string>
+    <string name="title_activity_tenaga">TugasTebakGambar</string>
+    <string name="title_activity_end">TugasTebakGambar</string>
+
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.momoantoni.tugastebakgambar"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AnjingActivity"
+            android:label="@string/title_activity_anjing" >
+        </activity>
+        <activity
+            android:name=".BiasaActivity"
+            android:label="@string/title_activity_biasa" >
+        </activity>
+        <activity
+            android:name=".BuahActivity"
+            android:label="@string/title_activity_buah" >
+        </activity>
+        <activity
+            android:name=".FermentasiActivity"
+            android:label="@string/title_activity_fermentasi" >
+        </activity>
+        <activity
+            android:name=".HidupActivity"
+            android:label="@string/title_activity_hidup" >
+        </activity>
+        <activity
+            android:name=".JambuActivity"
+            android:label="@string/title_activity_jambu" >
+        </activity>
+        <activity
+            android:name=".TahiActivity"
+            android:label="@string/title_activity_tahi" >
+        </activity>
+        <activity
+            android:name=".TantanganActivity"
+            android:label="@string/title_activity_tantangan" >
+        </activity>
+        <activity
+            android:name=".TenagaActivity"
+            android:label="@string/title_activity_tenaga" >
+        </activity>
+        <activity
+            android:name=".EndActivity"
+            android:label="@string/title_activity_end" >
+        </activity>
+    </application>
+
+</manifest>
